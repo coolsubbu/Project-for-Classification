@@ -1,5 +1,5 @@
 * credit card limit allocation for bank customers. 
-* Pls go through data science problem - ABC payments bank - v1.0.pdf
+* pls go through data science problem - ABC payments bank - v1.0.pdf
 * assignment data charts.xlsx has charts.
 * Assignment data.csv has the training test Data.
 * config.json contains the url for training data.
